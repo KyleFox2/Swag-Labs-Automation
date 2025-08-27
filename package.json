@@ -1,0 +1,16 @@
+{
+  "name": "swag-labs-automation",
+  "version": "1.0.0",
+  "description": "Playwright automation on a demo site",
+  "main": "index.js",
+  "scripts": {
+    "Playwright-UI": "npx playwright test --ui"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.55.0",
+    "@types/node": "^24.3.0"
+  }
+}
